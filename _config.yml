@@ -1,7 +1,7 @@
-name: stillness
+name: STILLNESS
 favicon: null
-layout_spectrum: 0.7326982456725091
-typography_spectrum: 0.6806644343305379
+layout_spectrum: 0.23683
+typography_spectrum: 0.38078
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#000000'
+    - '#c1a96b'
+    - '#4b3f25'
+    - '#66563c'
+    - '#261b09'
   brandStrength: 0.9787129894830287
   lightness: 0.9516869965009391
   saturation: 0.2377334199845791
